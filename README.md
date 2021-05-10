@@ -1,2 +1,2 @@
-# Aeather App
+# Weather App
 Get the weather in any city in the world.
